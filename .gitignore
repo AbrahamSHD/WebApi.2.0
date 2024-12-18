@@ -1,0 +1,76 @@
+# Others
+.env
+
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# User-specific files
+*.rsuser
+*.userprefs
+*.csproj.user
+*.dotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Mac/Linux files
+.DS_Store
+*.DS_Store
+._*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Core secrets
+**/secrets.json
+*.swp
+
+# Web
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Publishing
+.publish/
+
+# Static files
+wwwroot/
+
+# Excel/EPPlus temporary files
+*.xlsx
+*.xlsx~
+*.xlsb~
+~$*.xlsx
+
+# Other
+*.tmp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
